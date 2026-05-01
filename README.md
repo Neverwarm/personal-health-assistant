@@ -1,10 +1,23 @@
-# Health Copilot: Eating, Sleep, and Exercise Tracking / 健康副驾：饮食、睡眠与运动追踪
+# Health assistant: Eating, Sleep, and Exercise Tracking / 健康助理：饮食、睡眠与运动数据追踪评估
 
 ## Overview / 概述
 
 **Health Copilot** is a comprehensive health-management skill that bridges the gap between raw data recognition and long-term reporting. It combines advanced analysis of meals, sleep, and exercise with automated Feishu (Lark) persistence and derived health assessments.
 
-**Health Copilot（健康助理）** 是一个全链路健康管理 skill。它打通了从原始数据识别到长期报表分析的完整环节，将饮食、睡眠、运动的深度分析与飞书（Lark）自动落库及衍生健康评估引擎完美结合。
+**Health Copilot（健康助理）** 是一个面向个人健康追踪场景的可复用分析型 skill
+- 帮助记录每餐摄入、睡眠质量以及运动锻炼恢复情况，并提供参考建议
+- 支持拍照识别每餐的热量以及主要营养成分
+- 支持通过截图识别Apple健康以及主流Android智能手表的睡眠和运动数据
+- 每天晚上会提供每天营养摄入评估提醒
+- 每周日会提结合营养摄入以及睡眠、运动数据情况提供每周健康综合评估报告
+- 识别的数据支持自动创建/记录到飞书表格中，并提供种图表视图
+<img width="2808" height="1746" alt="image" src="https://github.com/user-attachments/assets/04027191-19fe-4d8e-bac0-cad8018ed259" />
+<img width="2804" height="1666" alt="image" src="https://github.com/user-attachments/assets/fee00fa7-ac98-4340-ba4b-8f3bfad59213" />
+<img width="2796" height="1648" alt="image" src="https://github.com/user-attachments/assets/8e6a9813-a540-4181-ba08-ef8af7a40116" />
+<img width="2788" height="1744" alt="image" src="https://github.com/user-attachments/assets/318b69c5-6bfc-49d0-8859-da833bad5183" />
+<img width="2760" height="1754" alt="image" src="https://github.com/user-attachments/assets/b72ef9a0-01e9-4392-be01-b043cea5afa2" />
+
+
 
 ---
 
