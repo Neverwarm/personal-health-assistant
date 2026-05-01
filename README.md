@@ -11,10 +11,13 @@
 - 每天晚上会提供每天营养摄入评估提醒
 - 每周日会提结合营养摄入以及睡眠、运动数据情况提供每周健康综合评估报告
 - 识别的数据支持自动创建/记录到飞书表格中，并提供种图表视图
+
 <img width="2808" height="1746" alt="image" src="https://github.com/user-attachments/assets/04027191-19fe-4d8e-bac0-cad8018ed259" />
+
 <img width="2804" height="1666" alt="image" src="https://github.com/user-attachments/assets/fee00fa7-ac98-4340-ba4b-8f3bfad59213" />
-<img width="2796" height="1648" alt="image" src="https://github.com/user-attachments/assets/8e6a9813-a540-4181-ba08-ef8af7a40116" />
+
 <img width="2788" height="1744" alt="image" src="https://github.com/user-attachments/assets/318b69c5-6bfc-49d0-8859-da833bad5183" />
+
 <img width="2760" height="1754" alt="image" src="https://github.com/user-attachments/assets/b72ef9a0-01e9-4392-be01-b043cea5afa2" />
 
 
